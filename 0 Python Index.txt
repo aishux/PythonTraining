@@ -1,0 +1,56 @@
+﻿1. Introduction to Python (link)
+* What is Python?  
+* Installing Python and IDEs (e.g., Jupyter, VS Code, PyCharm)
+* Writing and Running Python Programs
+2. Basic Syntax and Data Types
+* Comments and Docstrings (link)
+* Basic Input/Output (print() and input())  (link)
+* Variables and Data Types (link)
+   * Integers
+   * Floats
+   * Strings
+   * Booleans
+* Type Casting (link)
+3. Operators
+* Arithmetic Operators (+, -, *, /, etc.) (link)
+* Comparison Operators (==, !=, <, >, etc.) (link)
+* Assignment Operators (=, +=, -=, etc.) (link)
+* Logical Operators (and, or, not) (link)
+4. Control Flow
+* Conditional Statements (if, elif, else) (link)
+* Looping Structures:
+   * for loop (link)
+   * while loop (link)
+* break, continue, and pass (link)
+5. Functions (link)
+* Defining Functions
+* Function Arguments and Parameters
+* Return Statement
+6. Data Structures
+* Lists (link)
+   * Creating Lists
+   * List Operations (slicing, indexing, appending, etc.) 
+* Tuples
+   * Creating Tuples
+   * Tuple Operations
+* Dictionaries
+   * Creating Dictionaries
+   * Accessing and Modifying Values
+   * Dictionary Methods
+* Sets
+   * Creating Sets
+   * Set Operations (union, intersection, difference)
+7. String Manipulation
+* String Indexing and Slicing
+* String Methods (e.g., upper(), lower(), replace(), etc.)
+* String Formatting (f-strings, format(), %)
+* Escape Characters
+8. File Handling
+* Opening Files (open())
+* Reading and Writing to Files
+* File Modes (r, w, a, etc.)
+* Using with Statement for Files
+9. Modules and Packages
+* Importing Modules (import, from ... import)
+* Standard Library Modules (e.g., math, random, os, sys)
+* Installing External Packages (pip)
