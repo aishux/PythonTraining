@@ -1,6 +1,6 @@
 ## 2.3 Type Casting
 
-#Sometimes, you need to convert one data type to another. This is called type casting. 
+# Sometimes, you need to convert one data type to another. This is called type casting. 
 # For example, you might want to turn an integer into a string or vice versa.
 
 
