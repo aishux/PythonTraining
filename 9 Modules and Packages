@@ -1,0 +1,44 @@
+# 9.1 Importing Modules
+# Modules are files containing Python code (functions, classes, variables) that you can reuse. You can import a module using the following ways:
+
+# Basic import: Import the entire module.
+import math
+print(math.sqrt(16)) 
+
+
+# from ... import: Import specific functions or variables from a module.
+from math import sqrt
+print(sqrt(16))  
+
+
+# Alias with as: Create an alias for the module to simplify its name.
+import math as m
+print(m.sqrt(16))
+
+
+# 9.2 Standard Library Modules
+# Python has a rich set of built-in modules that provide useful functions:
+
+# math: Provides mathematical functions like square root, trigonometry, etc.
+import math
+print(math.pi)  
+
+#random: For generating random numbers.
+import random
+print(random.randint(1, 10))  
+
+
+# os: Provides functions to interact with the operating system (e.g., file handling).
+import os
+print(os.getcwd())  # Output: Current working directory
+
+# sys: Access system-specific parameters and functions.
+
+import sys
+print(sys.version)  # Output: Python version info
+
+# 9.3 Installing External Packages (pip)
+# If a module isn’t part of Python’s standard library, you can install it using pip, Python’s package manager.
+
+# Installing a package:
+pip install pandas  #This installs the requests package, which helps with making HTTP requests.
